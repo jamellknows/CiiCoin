@@ -1,0 +1,15 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Core CII Elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamell Samuels",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.4.0",
+    "waffle": "^0.0.4"
+  }
+}
